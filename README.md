@@ -16,4 +16,4 @@ Quectel L86 GPS
 Tamamen örnek teşkil etmesi için yayımlanmıştır. İlgili kodlamalar ve detaylı bilgiler için iletişime geçebilirsiniz. 
 
 OĞUZ KAAN ATAY
-ata.oguzkaan@gmail.com
+atay.oguzkaan@gmail.com
